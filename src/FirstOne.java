@@ -13,11 +13,15 @@ public class FirstOne {
 		
 		// TODO Auto-generated method stub
 System.out.println("this is firstone");
+
+System.out.println("new line for git S");
 		System.out.println(arr[2]);
 		
 		for(int x : arr){
 			System.out.println(x);
 		}
 	}
+	
+
 
 }
